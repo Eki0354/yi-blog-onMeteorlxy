@@ -8,8 +8,9 @@
 
 ## Documentation
 
-:book: [Live Demo and Docs](https://vuepress-theme-meteorlxy.meteorlxy.cn)
+:book: [Meteorlxy Live Demo and Docs](https://vuepress-theme-meteorlxy.meteorlxy.cn)
+:link: [Personal Blog Site](http://eki.space)
 
 ## LICENSE
 
-[MIT](https://github.com/meteorlxy/vuepress-theme-meteorlxy/blob/master/LICENSE) &copy; [@meteorlxy](https://github.com/meteorlxy) & [Contributors](https://github.com/meteorlxy/vuepress-theme-meteorlxy/graphs/contributors)
+[MIT](https://github.com/meteorlxy/vuepress-theme-meteorlxy/blob/master/LICENSE) &copy; [@Eki0354](https://github.com/Eki0354)
