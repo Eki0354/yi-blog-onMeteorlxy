@@ -41,6 +41,17 @@
           meteorlxy
         </a>
       </template>
+
+      <template v-if="poweredByAuthor">
+        <span> | </span>
+
+        <a
+          href="https://github.com/Eki0354"
+          target="_blank"
+        >
+          Eki0354
+        </a>
+      </template>
     </p>
 
     <!-- eslint-disable vue/no-v-html -->
@@ -70,6 +81,10 @@ export default {
 
     poweredByTheme () {
       return this.$themeConfig.footer.poweredByTheme !== false
+    },
+
+    poweredByAuthor () {
+      return this.$themeConfig.footer.poweredByAuthor !== false
     },
 
     custom () {

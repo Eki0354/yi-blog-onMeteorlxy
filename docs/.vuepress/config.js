@@ -73,7 +73,8 @@ module.exports = {
     footer: {
       poweredBy: true,
       poweredByTheme: true,
-      custom: 'Copyright 2018-present <a href="https://github.com/meteorlxy" target="_blank">meteorlxy</a> | MIT License',
+      poweredByAuthor: true,
+      custom: 'Copyright 2020-present <a href="https://github.com/Eki0354" target="_blank">Eki0354</a> | MIT License',
     },
 
     infoCard: {
