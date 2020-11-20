@@ -1,9 +1,9 @@
 const path = require('path')
 
 module.exports = {
-  title: '',
+  title: 'Eki\'s Blog',
 
-  description: 'Eki\'s Blog',
+  description: '腹坚亦博',
 
   locales: {
     '/': {
